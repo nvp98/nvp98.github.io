@@ -2,7 +2,7 @@
   "name": "update-cv-32021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nvp98.github.io/nvp98.github.io",
+  "homepage": "https://nvp98.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
