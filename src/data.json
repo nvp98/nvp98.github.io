@@ -1,0 +1,32 @@
+{
+    "name":"Nguyễn Vĩnh Phước",
+    "position":"Front-End Developer",
+    "phone":"0368149497",
+    "website":"http:....",
+    "location":"237 Phạm,,,,",
+    "about":"test",
+    "exp":[
+        {
+            "id":1,
+            "position":"test",
+            "company":"company",
+            "start":"123",
+            "end":"now"
+        } 
+    ],
+    "education":[
+        {
+            "school":"HCMUTE",
+            "start":"aa",
+            "end":"aaa"
+        }
+    ],
+    "skills":[
+        "ádasd",
+        "uawdad"
+    ],
+    "others":[
+        "assssss"
+    ]
+
+}
